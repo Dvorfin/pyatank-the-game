@@ -1,3 +1,4 @@
-# pyatank-the-game
-MAI course cpp 
-// cgdfgdfg
+## Simple game 'Pyatank'
+# MAI course cpp 
+
+uses SFML graphics
